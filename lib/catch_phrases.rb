@@ -11,6 +11,7 @@ end
 
 def link
   
+  puts 
 end
 
 def any_phrase
